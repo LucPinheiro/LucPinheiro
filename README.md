@@ -2,7 +2,7 @@
 - 🌐 https://beacons.ai/lupinheiro
 - 📧 gerallupinheiro@gmail.com
 - 🔭 Actualmente desarrollando el proyecto Ojeador Deportivo en React
-- 
+
 - 🇪🇸 Vivo en Vigo, Pontevedra, España
 - 🇧🇷 He nacido en Vargem Grande, Maranhão, Brasil
 - 🎓 Soy estudiando del Ciclo Superior de Programación de Aplicaciones Multiplataforma en el Instituto de Teis, Vigo
