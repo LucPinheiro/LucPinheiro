@@ -1,14 +1,15 @@
 ### ! Hola Mundo! Soy Lu Pinheiro 👋
 - 🌐 https://beacons.ai/lupinheiro
 - 📧 gerallupinheiro@gmail.com
-
+- 🔭 Actualmente desarrollando el proyecto Ojeador Deportivo en React
+- 
 - 🇪🇸 Vivo en Vigo, Pontevedra, España
 - 🇧🇷 He nacido en Vargem Grande, Maranhão, Brasil
 - 🎓 Soy estudiando del Ciclo Superior de Programación de Aplicaciones Multiplataforma en el Instituto de Teis, Vigo
-- 🔭 Actualmente desarrollando el proyecto Ojeador Deportivo ...
-- 🌱 Leyendo el libro ...
-- 💬 Me gusta hablar sobre tecnología, música y ciencias ...
-- 😄 Pronombres: ella/de ella ...
+- 🎓 Soy Licenciada en Ciencias Biológias por la Universidade Estadual do Maranhão, São Luís Maranhão, Brasil
+- 🎓 Soy Técnico  profesional en Piano por la Escuela de Música Lilah Lisboa de Araújo, São Luís Maranhão, Brasil 
+- 💬 Me gusta hablar sobre tecnología, música y ciencias 
+- 😄 Pronombres: ella/de ella 
 -->
 
 <div>
