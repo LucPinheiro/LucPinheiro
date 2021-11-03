@@ -1,5 +1,6 @@
 ### ! Hola Mundo! Soy Lu Pinheiro 👋
 - https://beacons.ai/lupinheiro
+- gerallupinheiro@gmail.com
 
 - 🇪🇸 Vivo en Vigo, Pontevedra, España
 - 🇧🇷 He nacido en Vargem Grande, Maranhão, Brasil
@@ -48,7 +49,7 @@
   
   <div style= "display: inline_block"><br>
      <h4> Redes sociales </h4>
-    <img aling="center" alt="Lu-HTML height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <a href="htts://www.github.com/LucPinheiro target="_blank" <img aling="center" alt="Lu-HTML height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     <img aling="center" alt="Lu-HTML height="30" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img aling="center" alt="Lu-HTML height="30" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
      <img aling="center" alt="Lu-HTML height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
