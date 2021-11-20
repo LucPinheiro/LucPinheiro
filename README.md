@@ -1,7 +1,7 @@
 ### ! Hola Mundo! Soy Lu Pinheiro 👋
 - 🌐  https://beacons.ai/lupinheiro
 - 📧  gerallupinheiro@gmail.com
-- 🔭 Actualmente desarrollando el proyecto Ojeador Deportivo en React
+- 🔭 Proyecto actual: Proyecto Ojeador Deportivo en React
 
 - 🇪🇸 Vivo en Vigo, Pontevedra, España
 - 🇧🇷 He nacido en Vargem Grande, Maranhão, Brasil
