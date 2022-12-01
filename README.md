@@ -5,12 +5,10 @@
 - 🇪🇸 Vivo en Vigo, Pontevedra, España
 - 🇧🇷 He nacido en Vargem Grande, Maranhão, Brasil
 - 🎓 Programadora Full Stack. Academía Hack a Boss, 2021, 400 horas.
-- 🎓 Técnico Superior en Programación de Aplicaciones Multiplataforma en el Instituto de Teis, Vigo, 2019-2022.
+- 🎓 Técnico Superior en Programación de Aplicaciones Multiplataforma en el Instituto de Teis, Vigo, 2019-2022, 2000 horas.
 - 🎓 Licenciada en Ciencias Biológias por la Universidade Estadual do Maranhão, São Luís Maranhão, Brasil, 2006-2010.
 - 🎓 Técnico  profesional en Piano por la Escuela de Música Lilah Lisboa de Araújo, São Luís Maranhão, Brasil, 2005-2009.
 - 🎓 Técnico Magisterio en Enseñanza Primaria, Escuela Politénica de Vargem Grande, Brasil, 2001-2004.
-- 💬 Me gusta hablar sobre tecnología, música y ciencias  
-- 😄 Pronombres: ella/de ella 
 -->
 
 <div>
