@@ -1,6 +1,5 @@
 ### ! Hola Mundo! Soy Lu Pinheiro 👋
 - 🌐  https://beacons.ai/lupinheiro
-- 📧  gerallupinheiro@gmail.com
 
 - 🇪🇸 Vivo en Vigo, Pontevedra, España
 - 🇧🇷 He nacido en Vargem Grande, Maranhão, Brasil
