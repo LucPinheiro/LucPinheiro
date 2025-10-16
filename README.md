@@ -2,7 +2,7 @@
 - 🌐  https://beacons.ai/lupinheiro
 
 - 🎓 Técnico Superior en Programación de Aplicaciones Multiplataforma en el Instituto de Teis, Vigo, 2019-2022, 2000 horas.
-- - 🎓 Programadora Full Stack. Academía Hack a Boss, 2021, 400 horas.
+- 🎓 Programadora Full Stack. Academía Hack a Boss, 2021, 400 horas.
 - 🎓 Licenciada en Ciencias Biológias por la Universidade Estadual do Maranhão, São Luís Maranhão, Brasil, 2006-2010.
 - 🎓 Técnico  profesional en Piano por la Escuela de Música Lilah Lisboa de Araújo, São Luís Maranhão, Brasil, 2005-2009.
 - 🎓 Técnico Magisterio en Enseñanza Primaria, Escuela Politécnica de Vargem Grande, Brasil, 2001-2004.
