@@ -1,5 +1,5 @@
 ### ! Hola Mundo! Soy Lu Pinheiro 👋
-- 🌐  https://lucpinheiro.github.io/lupinheiro.github.io/
+- 🌐  https://lucpinheiro.github.io
 - 🎓 Curso de especialización de Desarrollo de aplicaciones en Python, Instituto de Teis, Vigo, 2025-2026, 430 horas.
 - 🎓 Técnico Superior en Programación de Aplicaciones Multiplataforma, Instituto de Teis, Vigo, 2019-2022, 2000 horas.
 - 🎓 Programadora Full Stack. Academía Hack a Boss, 2021, 400 horas.
