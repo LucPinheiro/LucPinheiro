@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Lu Pinheiro
 
-- 🌐 https://lucpinheiro.github.io
+🌐 https://lucpinheiro.github.io
 
 ## 🎓 Education
 
