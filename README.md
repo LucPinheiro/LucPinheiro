@@ -1,11 +1,15 @@
-### ! Hola Mundo! Soy Lu Pinheiro 👋
-- 🌐  https://lucpinheiro.github.io
-🎓 Specialization Course in Python Application Development, Teis Institute, Vigo, 2025–2026 (430 hours)
-🎓 Higher Technician in Multiplatform Application Development, Teis Institute, Vigo, 2019–2022 (2000 hours)
-🎓 Full Stack Developer, Hack a Boss Academy, 2021 (400 hours)
-🎓 Bachelor’s Degree in Biological Sciences, State University of Maranhão, São Luís, Maranhão, Brazil, 2006–2010
-🎓 Professional Piano Technician Diploma, Lilah Lisboa de Araújo School of Music, São Luís, Maranhão, Brazil, 2005–2009
-🎓 Technical Diploma in Primary Education Teaching, Polytechnic School of Vargem Grande, Brazil, 2001–2004
+# 👋 Hello World! I'm Lu Pinheiro
+
+- 🌐 https://lucpinheiro.github.io
+
+## 🎓 Education
+
+- 🎓 Specialization Course in Python Application Development, Teis Institute, Vigo, 2025–2026 (430 hours)
+- 🎓 Higher Technician in Multiplatform Application Development, Teis Institute, Vigo, 2019–2022 (2000 hours)
+- 🎓 Full Stack Developer, Hack a Boss Academy, 2021 (400 hours)
+- 🎓 Bachelor’s Degree in Biological Sciences, State University of Maranhão, São Luís, Brazil, 2006–2010
+- 🎓 Professional Piano Technician Diploma, Lilah Lisboa de Araújo School of Music, São Luís, Brazil, 2005–2009
+- 🎓 Technical Diploma in Primary Education Teaching, Polytechnic School of Vargem Grande, Brazil, 2001–2004
   
 <div>
   <a href="https://beacons.ai/lupinheiro">
