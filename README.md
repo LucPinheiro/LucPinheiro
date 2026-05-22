@@ -16,9 +16,10 @@
 ## ⚒️ Tech Stack
 
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucpinheiro&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
+<img
+  src="https://github-readme-stats-theta-amber-30.vercel.app/api/top-langs/?username=LucPinheiro&layout=compact&theme=github_dark&hide_border=true"
+/>
+
+<img
+  src="https://github-readme-stats-theta-amber-30.vercel.app/api?username=LucPinheiro&show_icons=true&theme=github_dark&hide_border=true"
+/>
