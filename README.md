@@ -12,12 +12,27 @@
 - 🎓 Technical Diploma in Primary Education Teaching
 
 ---
-<div class="contenedor">
-  <div class="card">Stats</div>
-  <div class="card">Top Languages by Repo</div>
-  <div class="card">Top Languages by Commit</div>
-  <div class="card">Most Used Languages</div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LucPinheiro&show_icons=true&theme=tokyonight"/>
+    </td>
+
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucPinheiro&layout=compact&theme=tokyonight"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucPinheiro&theme=tokyonight"/>
+    </td>
+
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucPinheiro&layout=donut&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
 
 <!--
