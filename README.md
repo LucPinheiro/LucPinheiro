@@ -15,17 +15,10 @@
 
 ## ⚒️ Tech Stack
 
-## ⚒️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,django,flask" />
-</p>
 
-## 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-## 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucpinheiro&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
