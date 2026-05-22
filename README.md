@@ -11,6 +11,8 @@
 🎓 Professional Piano Technician Diploma
 🎓 Technical Diploma in Primary Education Teaching
 
+---
+
 <!--
 ---
 <img src="https://github-readme-stats-theta-amber-30.vercel.app/api/top-langs/?username=LucPinheiro&layout=compact&theme=github_dark&hide_border=true" />  -->
