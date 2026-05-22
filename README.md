@@ -12,27 +12,6 @@
 - 🎓 Technical Diploma in Primary Education Teaching
 
 ---
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LucPinheiro&show_icons=true&theme=tokyonight"/>
-    </td>
-
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucPinheiro&layout=compact&theme=tokyonight"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=LucPinheiro&theme=tokyonight"/>
-    </td>
-
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucPinheiro&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
 
 
 <!--
