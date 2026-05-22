@@ -1,0 +1,14 @@
+.contenedor {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.card {
+  background-color: #374151;
+  border-radius: 6px;
+  padding: 25px;
+  min-height: 200px;
+  width: 100%;
+  box-sizing: border-box;
+}
