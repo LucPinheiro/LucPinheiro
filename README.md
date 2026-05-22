@@ -15,6 +15,17 @@
 
 ## ⚒️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,java,spring,mysql,docker,linux,git,github,vscode" />
+## ⚒️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,django,flask" />
+</p>
+
+## 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+## 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 </p>
