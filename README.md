@@ -146,6 +146,26 @@
 
 </details>
 
+<details>
+<summary>🌐 Social Media & Contact</summary>
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://lucpinheiro.github.io)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LucPinheiro)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/lupinheiroofficial)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:lupinheiro.dev@gmail.com)
+
+</details>
+
 
 <!--
 ---
