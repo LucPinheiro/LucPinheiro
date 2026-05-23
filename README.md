@@ -47,6 +47,23 @@
 ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+
+
+## 🎨 Creative & Multimedia
+
+🎧 DJ & Music Production — 35mm School  
+🎼 Digital Music Production Tools & AI *(GDPYMES Program, 150h)*  
+🎹 Professional Piano Technician Diploma  
+
+![Cubase](https://img.shields.io/badge/Cubase-233A51?style=flat-square)
+![Ableton](https://img.shields.io/badge/Ableton-000000?style=flat-square&logo=abletonlive&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+
+🎵 Music Projects → https://soundcloud.com/lupinheiroofficial
 <!--
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
