@@ -2,30 +2,23 @@
 
 🌐 [lucpinheiro.github.io](https://lucpinheiro.github.io)
 
-## 🎓 Education
+## 🎓 Tech Education
 
 💻 Python Application Development Specialization — Teis Institute *(2025–2026)*  
 ⚙️ Multiplatform Application Development (DAM) — Teis Institute *(2019–2022)*  
 🚀 Full Stack Developer Bootcamp — Hack a Boss Academy *(2021)*  
+🤖 Master's in Business Digitalization with AI — IOE Business School *(2025)*
 
-### 🛠 Tech Focus
+<details>
+<summary>📚 Additional Academic Background</summary>
+
+- 🎓 B.Sc. in Biological Sciences — State University of Maranhão
+- 🍎 Primary Education Teaching Degree
+- 👩‍🏫 Vocational Training Teaching Certification — Centro de Formación ICA, Vigo *(2018)*
+
+</details>
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-
-![OWL](https://img.shields.io/badge/OWL-Odoo_Framework-875A7B?style=for-the-badge)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 <!--
