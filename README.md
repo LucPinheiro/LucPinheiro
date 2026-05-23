@@ -12,8 +12,8 @@
 <details>
 <summary>📚 Additional Academic Background</summary>
 
-- 🎓 B.Sc. in Biological Sciences — State University of Maranhão
-- 🍎 Primary Education Teaching Degree - Politecnica Scholl, 2001-2003
+- 🎓 B.Sc. in Biological Sciences — State University of Maranhão, 2006-2010
+- 🍎 Primary Education Teaching Degree - Polytechnic School, 2001-2003
 - 👩‍🏫 Vocational Training Teaching Certification — Centro de Formación ICA, Vigo *(2018)*
 
 ### 🎵 DJ, Music Production & Audio Tech
