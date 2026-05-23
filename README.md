@@ -60,9 +60,8 @@
 </details>
 
 <details>
-<summary>Backend</summary>
+<summary>📊 Data Analysis & Machine Learning</summary>
   
-## 📊 Data Analysis & Machine Learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -89,7 +88,9 @@
 
 
 
-## 🤖 AI & Automation
+<details>
+<summary> ## 🤖 AI & Automation</summary>
+
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
@@ -115,6 +116,7 @@
 
 
 </details>
+
 
 <details>
 <summary>Devops</summary>
