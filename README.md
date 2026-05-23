@@ -4,18 +4,16 @@
 
 ## 🎓 Education
 
-![Python](https://img.shields.io/badge/Python-Developer-blue)
-![Full Stack](https://img.shields.io/badge/FullStack-Developer-black)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933)
+💻 Python Application Development Specialization — Teis Institute *(2025–2026)*  
+⚙️ Multiplatform Application Development (DAM) — Teis Institute *(2019–2022)*  
+🚀 Full Stack Developer Bootcamp — Hack a Boss Academy *(2021)*  
 
-- 🎓 Specialization Course in Python Application Development, Teis Institute, Vigo, 2025–2026
-- 🎓 Higher Technician in Multiplatform Application Development, Teis Institute, Vigo, 2019–2022
-- 🎓 Full Stack Developer, Hack a Boss Academy, 2021
-- 🎓 Bachelor’s Degree in Biological Sciences, State University of Maranhão
-- 🎓 Professional Piano Technician Diploma
-- 🎓 Technical Diploma in Primary Education Teaching
+### 🛠 Tech Focus
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 <!--
