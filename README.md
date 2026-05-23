@@ -13,8 +13,22 @@
 <summary>📚 Additional Academic Background</summary>
 
 - 🎓 B.Sc. in Biological Sciences — State University of Maranhão
-- 🍎 Primary Education Teaching Degree
+- 🍎 Primary Education Teaching Degree - Politecnica Scholl, 2001-2003
 - 👩‍🏫 Vocational Training Teaching Certification — Centro de Formación ICA, Vigo *(2018)*
+
+### 🎨 Creative & Multimedia
+
+- 🎧 DJ & Music Production — 35mm School *(2024-2026)*
+- 🎼 Digital Music Production Tools & AI — GDPYMES Program *(2026)*
+- 🎹 Piano Technician Diploma — Escola de Música Lilah Lisboa de Araujo *(2004–2009)*
+
+![Cubase](https://img.shields.io/badge/Cubase-233A51?style=flat-square)
+![Ableton](https://img.shields.io/badge/Ableton-000000?style=flat-square&logo=abletonlive&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL_Studio-FF6F00?style=flat-square)
+![Logic Pro](https://img.shields.io/badge/Logic_Pro-9999FF?style=flat-square)
+![Pro Tools](https://img.shields.io/badge/Pro_Tools-222222?style=flat-square)
+
+🎵 Music Projects → https://soundcloud.com/lupinheiroofficial
 
 </details>
 
