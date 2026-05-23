@@ -114,9 +114,7 @@
 
 </details>
 
-<details>
 
-<summary>🚀 DevOps</summary>
 
 <details>
 <summary>🚀 DevOps</summary>
