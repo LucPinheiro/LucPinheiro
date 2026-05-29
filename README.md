@@ -1,6 +1,7 @@
 # 👋 Hello World! I'm Lu Pinheiro
 
 🌐 [lucpinheiro.github.io](https://lucpinheiro.github.io)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
