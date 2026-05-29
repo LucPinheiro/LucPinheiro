@@ -2,8 +2,6 @@
 
 🌐 [lucpinheiro.github.io](https://lucpinheiro.github.io)
 
-💡 Main Technologies
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
