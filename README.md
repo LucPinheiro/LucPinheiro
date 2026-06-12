@@ -125,7 +125,8 @@
 
 ### 🤗 AI Platforms
 
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square)
+🤗 **Hugging Face:** https://huggingface.co/lupinheiro
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square)](https://huggingface.co/lupinheiro)
 
 ### 🎨 AI Image Generation
 
