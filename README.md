@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Lu Pinheiro
 
-🌐 [lucpinheiro.github.io](https://lucpinheiro.github.io)
+🌐 [lucpinheiro.github.io](https://lucpinheiro.github.io)<br>
 🤗 [Hugging Face Models](https://huggingface.co/lupinheiro)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
