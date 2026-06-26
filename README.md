@@ -113,13 +113,26 @@
 </details>
 
 <details>
-<summary>🤖 AI & Automation</summary>
+<summary>🤖 AI Software Engineering & Automation</summary>
+
+### 💻 AI IDEs & Development Environments
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+![Warp](https://img.shields.io/badge/Warp-01A4FF?style=flat-square)
+
+### 🤖 AI Coding Agents
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4F7CFF?style=flat-square)
 
 ### 💬 LLMs & AI Assistants
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square\&logo=openai\&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square\&logo=githubcopilot\&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square\&logo=googlegemini\&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square)
 
@@ -143,18 +156,18 @@
 
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
 
-### ⚡ Automation & Workflows
+### ⚡ AI Automation & Workflows
 
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square\&logo=zapier\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square\&logo=n8n\&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-### 🧠 Productivity AI
+### 🧠 AI Productivity
 
-![Notion AI](https://img.shields.io/badge/Notion_AI-000000?style=flat-square\&logo=notion\&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square\&logo=clickup\&logoColor=white)
-![Airtable AI](https://img.shields.io/badge/Airtable_AI-18BFFF?style=flat-square\&logo=airtable\&logoColor=white)
+![Notion AI](https://img.shields.io/badge/Notion_AI-000000?style=flat-square&logo=notion&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+![Airtable AI](https://img.shields.io/badge/Airtable_AI-18BFFF?style=flat-square&logo=airtable&logoColor=white)
 
 </details>
 
